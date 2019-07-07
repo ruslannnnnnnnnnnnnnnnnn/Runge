@@ -43,14 +43,10 @@ namespace LabSystemDif
 
                 nullPoint.Text = new PointF(Y, derivY).ToString();
 
-                float SignNew(float x) => (x >= 0) ? 1 : -1;
-
                 Func<float, float, float, float>
                     dirivX = (t, x, y) => y,
                     dirivY = (t, x, y) =>
-                    {
-                        return alpha * (float)(SignNew(y) * Math.Pow(Math.Abs(y), beta)) - x - gamma * y;
-                    };
+                        alpha * (float)(Math.Sign(y) * Math.Pow(Math.Abs(y), beta)) - x - gamma * y;                
 
                 if (Drawing.Text == null || Drawing.Text == "")
                     Controller.Main(iter, new PointF(Y, derivY), stepH, dirivX, dirivY);
