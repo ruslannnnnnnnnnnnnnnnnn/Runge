@@ -1,0 +1,32 @@
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\bin\Debug\LabSystemDif.exe.config
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\bin\Debug\LabSystemDif.exe
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\bin\Debug\LabSystemDif.pdb
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.csprojResolveAssemblyReference.cache
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.exe
+c:\users\руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.pdb
+C:\Users\Руслан\documents\visual studio 2015\Projects\LabSystemDif\obj\Debug\LabSystemDif.Form.resources
+F:\LabSystemDif\bin\Debug\LabSystemDif.exe.config
+F:\LabSystemDif\obj\Debug\LabSystemDif.exe
+F:\LabSystemDif\obj\Debug\LabSystemDif.pdb
+C:\Users\Руслан\Desktop\LabSystemDif\bin\Debug\LabSystemDif.exe.config
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.exe
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.pdb
+C:\Users\Руслан\Desktop\LabSystemDif\bin\Debug\LabSystemDif.exe
+C:\Users\Руслан\Desktop\LabSystemDif\bin\Debug\LabSystemDif.pdb
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.Form.resources
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.Properties.Resources.resources
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\LabSystemDif\obj\Debug\LabSystemDif.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\bin\Debug\LabSystemDif.exe.config
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.exe
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.pdb
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\bin\Debug\LabSystemDif.exe
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\bin\Debug\LabSystemDif.pdb
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.Form.resources
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\Crvay\LabSystemDif\obj\Debug\LabSystemDif.csproj.CoreCompileInputs.cache
